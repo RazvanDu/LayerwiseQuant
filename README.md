@@ -7,6 +7,7 @@ The paper is available at: https://arxiv.org/abs/2406.17415 and it is in review 
 
 If you decide to use please consider citing it using:
 
+```
 @misc{dumitru2024layerwisequantizationpragmaticeffective,
       title={Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels}, 
       author={Razvan-Gabriel Dumitru and Vikas Yadav and Rishabh Maheshwary and Paul-Ioan Clotan and Sathwik Tejaswi Madhusudhan and Mihai Surdeanu},
@@ -16,4 +17,4 @@ If you decide to use please consider citing it using:
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2406.17415}, 
 }
-
+```
